@@ -1,16 +1,16 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Fatima Camarena
 
-<!--
-**fatimaconalep78-tech/fatimaconalep78-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Sobre mí
+Soy estudiante de **Informática** en CONALEP Tijuana 2. Me apasiona el desarrollo de software y la resolución de problemas.
 
-Here are some ideas to get you started:
+- 🏗 Actualmente estoy aprendiendo: **programacion y elaboracion de documentos digitales avanzados**.
+- 🌱 Mis próximos objetivos: Aprender **Desarrollo Web (HTML/CSS/JS)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Habilidades Técnicas
+- **Lenguajes:** C++.
+- **Herramientas:** Excel Avanzado, LaTeX, Git.
+- **Sistemas Operativos:** Windows.
+
+## 📫 Cómo contactarme
+- **Correo:** fatimaconalep78@gmail.com
+- **LinkedIn:** [Mi perfil](https://www.linkedin.com/in/tu-perfil)
